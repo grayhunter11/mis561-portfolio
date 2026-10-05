@@ -7,3 +7,5 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 course name, the date you completed it, https://public.tableau.com/views/PowerBITrainingCertifications/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 the course name, the date you completed it, https://public.tableau.com/app/profile/martin.gray.hunter/viz/PowerBITrainingCertifications/PowerBIStory, and your Part 2 text.
+
+the course name, the date you completed it, https://public.tableau.com/app/profile/martin.gray.hunter/viz/PowerBITrainingCertifications/PowerBIStory, and your Part 3 text.
